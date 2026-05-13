@@ -35,15 +35,6 @@ Data Science student at the **University of Georgia** (graduating May 2027), cur
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=virajahuja&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virajahuja&layout=compact&theme=default&hide_border=true" />
-</div>
-
----
-
 <div align="center">
   <sub>Always learning. Always building.</sub>
 </div>
